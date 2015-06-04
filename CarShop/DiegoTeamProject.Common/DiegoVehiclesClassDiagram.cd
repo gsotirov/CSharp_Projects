@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DiegoTeamProject.Common.ApplicationEngine" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAAAJAAAAAgQIAsABAECAAAgAAQAAAACAAACAIAM=</HashCode>
+      <FileName>ApplicationEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Car" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAAAAAAAAAAAACAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Client" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.ConsoleInput" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEQAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Database" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgICQAAAAAkBEBAIAAAAgAAAAAAAAAAAAAACAEAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Deal" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAIAgAAEAAAAAAAABBAAAAQBAAAAAAAAAAA=</HashCode>
+      <FileName>Deal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Depot" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACICAAAAAAAACAAIACAgAAIACAAAAAEAAgAAAA=</HashCode>
+      <FileName>Depot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.DiegoSystemExceptions" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DiegoSystemExceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Exchange" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAAAAAAAEAAAAAAAAAAAAAAAAAgAAACAAAAA=</HashCode>
+      <FileName>Exchange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Finance" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Finance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.KeyboardInterface" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>KeyboardInterface.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Menu" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAABAAAAAAAAAAAAAAAEAAQAAAAAAAAAQ=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.MenuPrinter" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAE=</HashCode>
+      <FileName>MenuPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.MissingDatabaseException" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MissingDatabaseException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Motorcycle" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Motorcycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.OffRoad" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAEAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OffRoad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Person" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAgAAEAAAAAAAAAAAAAAAAAAACAEAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Rent" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAEAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Rent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Sale" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAQAAAAAEAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Seller" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Statistic" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Statistic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Truck" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgKAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Upgrade" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAADAAAAAAAAAEAAAAAAAAAAABgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Upgrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Van" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Van.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.Vehicle" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAICABAAAQAAAAAEIAAAAABAAAAAAgAEEAgAJAABsIA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiegoTeamProject.Common.VehiclePrototype&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABA=</HashCode>
+      <FileName>VehiclePrototype.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Struct Name="DiegoTeamProject.Common.MenuItem" Collapsed="true">
+    <Position X="12.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAEAAkAAAAAAAAAAAAAAAAAAAEAAAAAgA=</HashCode>
+      <FileName>MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DiegoTeamProject.Common.PersonalDetails" Collapsed="true">
+    <Position X="14" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonalDetails.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="DiegoTeamProject.Common.IPerson" Collapsed="true">
+    <Position X="12.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IPerson.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DiegoTeamProject.Common.IUserInterface" Collapsed="true">
+    <Position X="14" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>IUserInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DiegoTeamProject.Common.CarType" Collapsed="true">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAAAAACAAAAAAAABAAAAAAAAAAEABAAAAAAA=</HashCode>
+      <FileName>CarType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.ClientType" Collapsed="true">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>ClientType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.Designation" Collapsed="true">
+    <Position X="15.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Designation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.DrivingWheels" Collapsed="true">
+    <Position X="17.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIBAAAAAAAAAACAAAAAAIQAFAAAAAAAAAAAA=</HashCode>
+      <FileName>DrivingWheels.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.FuelType" Collapsed="true">
+    <Position X="12.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAgAAAAAAQAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>FuelType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.MotorcycleType" Collapsed="true">
+    <Position X="14" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAiAACBAAAAAAAAAAEBCAAAAEEAAEAEAABAAEAUACIg=</HashCode>
+      <FileName>MotorcycleType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.OffRoadType" Collapsed="true">
+    <Position X="15.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAABAAEAAAAAAAAAAAAAAAAAAAgAAAgAAAAAAAAA=</HashCode>
+      <FileName>OffRoadType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.PaymentMethods" Collapsed="true">
+    <Position X="17.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAAAAAAAAAAQAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>PaymentMethods.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.TruckType" Collapsed="true">
+    <Position X="12.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAQAAAAAAAAAABAACAAAAgADA=</HashCode>
+      <FileName>TruckType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.VanType" Collapsed="true">
+    <Position X="14" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VanType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DiegoTeamProject.Common.VehicleState" Collapsed="true">
+    <Position X="15.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAEAAABABBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

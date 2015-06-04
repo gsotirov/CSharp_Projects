@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiegoTeamProject.Common", "DiegoTeamProject.Common\DiegoTeamProject.Common.csproj", "{540D5421-B0BB-4AA8-AC0F-DBC22FDDC877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiegoVehicles", "DiegoVehicles\DiegoVehicles.csproj", "{022C1DAE-1050-4BCD-89A0-065FCD18425C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://diegoteam.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DiegoTeamProject.Common\\DiegoTeamProject.Common.csproj
+		SccProjectName1 = DiegoTeamProject.Common
+		SccLocalPath1 = DiegoTeamProject.Common
+		SccProjectUniqueName2 = DiegoVehicles\\DiegoVehicles.csproj
+		SccProjectName2 = DiegoVehicles
+		SccLocalPath2 = DiegoVehicles
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540D5421-B0BB-4AA8-AC0F-DBC22FDDC877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540D5421-B0BB-4AA8-AC0F-DBC22FDDC877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540D5421-B0BB-4AA8-AC0F-DBC22FDDC877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540D5421-B0BB-4AA8-AC0F-DBC22FDDC877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022C1DAE-1050-4BCD-89A0-065FCD18425C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022C1DAE-1050-4BCD-89A0-065FCD18425C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022C1DAE-1050-4BCD-89A0-065FCD18425C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022C1DAE-1050-4BCD-89A0-065FCD18425C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
